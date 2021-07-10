@@ -50,5 +50,9 @@
 
 如果有存在明显 BUG 的，提供运行时日志文件（在 `/storage/emulated/0/com.ifengwoo.zyjdkj/log/` 里，会有多个，选择正出错的那个）。
 
-然后私聊作者。
+然后私聊作者或走 github issue 途径，issue 标题格式为 `【BUG提交】XXX问题`，建议走 issue，私聊太多会很乱。
+
+github 地址：https://github.com/DimBottom/SuperCat2
+
+群号：583937651
 
